@@ -6,6 +6,8 @@
 
 This is the project 1 for EE 381 Spring 2018
 
+Note: This project is heavily helped by Professor John De Sulima-Przyborowski at California
+State University of Long Beach for EE381
 """
 
 """
