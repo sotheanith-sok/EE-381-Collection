@@ -1,11 +1,11 @@
-# -*- coding: utf-8 -*-
-
 """
 @title Project 1
 @author Sotheanith Sok
 
 This is the project 1 for EE 381 Spring 2018
 
+Note: This project is heavily helped by Professor John De Sulima-Przyborowski at California
+State University of Long Beach for EE381
 """
 
 """
@@ -79,6 +79,7 @@ def randomNumberGenerator():
     for i in range(z):
         s=(M*s+A)%N
         l.append(round(s/N,4))
+    print(l)
     print('The mean of random number generated is',round(sum(l)/z,4))
 
 """
@@ -91,7 +92,7 @@ def probabilityCalculation():
     #Variable
     slot=[0]*3
     total=0
-    N=10000
+    N=2**100
     A=4857
     M=8601
     S=0
@@ -109,10 +110,5 @@ def probabilityCalculation():
         if(c1[0][1]==1):
             total+=1
         slot=[0]*3
-    print('The probability of three balls tossed and all three land in different cans is',round(total*100/s,4))
-        
-    
-
-        
-        
-
+    print('The probability of three balls tossed and all three land in different cans is',
+          round(total*100/s,4))
