@@ -1,7 +1,7 @@
-<h1 align="center" style="border: none">EE-381-Collection</h1>
+<h1 align="center" style="border: none">EE 381 Collection</h1>
 
 ## Overview
-A collection of assignments for the EE-381 class.
+A collection of assignments for the EE 381 class.
 
 ## Prerequisites
  - [Python](https://www.python.org/)
