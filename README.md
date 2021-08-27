@@ -8,7 +8,7 @@ A collection of assignments for the EE 381 class.
  - [Matplotlib](https://matplotlib.org/)
  - [NumPy](https://numpy.org/)
 
-## Author
+## Authors
  - [Sotheanith Sok](https://github.com/sotheanith)
 
 ## Course
