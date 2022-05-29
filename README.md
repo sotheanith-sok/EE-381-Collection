@@ -9,7 +9,7 @@ A collection of assignments for the EE 381 class.
  - [NumPy](https://numpy.org/)
 
 ## Authors
- - [Sotheanith Sok](https://github.com/sotheanith)
+ - [Sotheanith Sok](https://github.com/sotheanith-sok)
 
 ## Course
  - [EE 381 - Probability and Statistics with Applications to Computing](http://catalog.csulb.edu/preview_course_nopop.php?catoid=5&coid=40854)
